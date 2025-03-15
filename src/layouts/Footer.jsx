@@ -77,7 +77,7 @@ const Footer = () => {
             <p className="text-white">
               Made with passion by
               <a href='https://www.adnom.netlify.app' target='_blank'>
-                WebWise{" "}
+                Adnom{" "}
               </a>
             </p>
             <div className='flex space-x-6 mt-4 md:mt-0'>
