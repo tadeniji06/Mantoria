@@ -5,7 +5,7 @@ import ActiveListing from "../components/home/ActiveListing";
 import ExclusiveUpdates from "../components/home/ExclusiveUpdates";
 import GetInTouch from "../components/home/GetInTouch";
 import Flyers from "../components/properties/Flyers";
-
+import Alert from "../components/ui/Alert";
 import BackToTop from "../components/ui/BackToTop";
 import AniPlus from "../components/home/AniPlus";
 const Home = () => {
@@ -21,6 +21,7 @@ const Home = () => {
       <Flyers />
       <hr className='border-gray-400' />
       {/* <ExclusiveUpdates /> */}
+      <Alert />
       {/* <hr className='border-gray-400' /> */}
       <GetToKnow />
       <hr className='border-gray-400' />

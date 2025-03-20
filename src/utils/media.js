@@ -174,8 +174,95 @@ import video2 from "../assets/videos/vid2.mp4";
 import midRise from "../assets/videos/midRise.mp4";
 import ikateVid from "../assets/videos/ikateVid.mp4";
 import olongo from "../assets/videos/olongo.mp4";
+import ikota from "../assets/videos/ikota.mp4";
+
+import i104 from "../assets/images/houses/ikate5/104.jpg";
+import i105 from "../assets/images/houses/ikate5/105.jpg";
+import i106 from "../assets/images/houses/ikate5/106.jpg";
+import i107 from "../assets/images/houses/ikate5/107.jpg";
+import i108 from "../assets/images/houses/ikate5/108.jpg";
+import i109 from "../assets/images/houses/ikate5/109.jpg";
+import i110 from "../assets/images/houses/ikate5/110.jpg";
+import i111 from "../assets/images/houses/ikate5/111.jpg";
+import i112 from "../assets/images/houses/ikate5/112.jpg";
+import i113 from "../assets/images/houses/ikate5/113.jpg";
+import i114 from "../assets/images/houses/ikate5/114.jpg";
+import i115 from "../assets/images/houses/ikate5/115.jpg";
+import i116 from "../assets/images/houses/ikate5/116.jpg";
+import i117 from "../assets/images/houses/ikate5/117.jpg";
+import i118 from "../assets/images/houses/ikate5/118.jpg";
+import i119 from "../assets/images/houses/ikate5/119.jpg";
+import i120 from "../assets/images/houses/ikate5/120.jpg";
+import i121 from "../assets/images/houses/ikate5/121.jpg";
+import i122 from "../assets/images/houses/ikate5/122.jpg";
+import i123 from "../assets/images/houses/ikate5/123.jpg";
+import i124 from "../assets/images/houses/ikate5/124.jpg";
+import i125 from "../assets/images/houses/ikate5/125.jpg";
+import i126 from "../assets/images/houses/ikate5/126.jpg";
+import i127 from "../assets/images/houses/ikate5/127.jpg";
+import i128 from "../assets/images/houses/ikate5/128.jpg";
+import i129 from "../assets/images/houses/ikate5/129.jpg";
+import i130 from "../assets/images/houses/ikate5/130.jpg";
+import i131 from "../assets/images/houses/ikate5/131.jpg";
+import i132 from "../assets/images/houses/ikate5/132.jpg";
+
+import o133 from "../assets/images/houses/ikota/133.jpg";
+import o134 from "../assets/images/houses/ikota/134.jpg";
+import o135 from "../assets/images/houses/ikota/135.jpg";
+import o136 from "../assets/images/houses/ikota/136.jpg";
+import o137 from "../assets/images/houses/ikota/137.jpg";
+import o138 from "../assets/images/houses/ikota/138.jpg";
+import o139 from "../assets/images/houses/ikota/139.jpg";
+import o140 from "../assets/images/houses/ikota/140.jpg";
+import o141 from "../assets/images/houses/ikota/141.jpg";
+import o142 from "../assets/images/houses/ikota/142.jpg";
+import o143 from "../assets/images/houses/ikota/143.jpg";
+// import o144 from "../assets/images/houses/ikota/144.jpg";
+import o145 from "../assets/images/houses/ikota/145.jpg";
 
 export {
+  o133,
+  o134,
+  o135,
+  o136,
+  o137,
+  o138,
+  o139,
+  o140,
+  o141,
+  o142,
+  o143,
+  o145,
+  // houses
+  i104,
+  i105,
+  i106,
+  i107,
+  i108,
+  i109,
+  i110,
+  i111,
+  i112,
+  i113,
+  i114,
+  i115,
+  i116,
+  i117,
+  i118,
+  i119,
+  i120,
+  i121,
+  i122,
+  i123,
+  i124,
+  i125,
+  i126,
+  i127,
+  i128,
+  i129,
+  i130,
+  i131,
+  i132,
   Logo,
   // flyers
   Flyer1,
@@ -338,4 +425,5 @@ export {
   midRise,
   ikateVid,
   olongo,
+  ikota,
 };
