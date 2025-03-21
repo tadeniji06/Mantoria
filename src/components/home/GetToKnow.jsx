@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
-import { hero5, hero6 } from "../../utils/media";
+import { hero6 } from "../../utils/media";
 import { getToKnowMe } from "../../utils/consts";
 import gsap from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";

@@ -8,6 +8,7 @@ import Flyers from "../components/properties/Flyers";
 import Alert from "../components/ui/Alert";
 import BackToTop from "../components/ui/BackToTop";
 import AniPlus from "../components/home/AniPlus";
+import Director from "../components/home/Director";
 const Home = () => {
   return (
     <section>
@@ -24,6 +25,8 @@ const Home = () => {
       <Alert />
       {/* <hr className='border-gray-400' /> */}
       <GetToKnow />
+      <hr className='border-gray-400' />
+      <Director />
       <hr className='border-gray-400' />
       <GetInTouch />
       <BackToTop />
