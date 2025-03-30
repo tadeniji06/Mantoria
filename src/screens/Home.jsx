@@ -22,7 +22,7 @@ const Home = () => {
       <Flyers />
       <hr className='border-gray-400' />
       {/* <ExclusiveUpdates /> */}
-      <Alert />
+      {/* <Alert /> */}
       {/* <hr className='border-gray-400' /> */}
       <GetToKnow />
       <hr className='border-gray-400' />
