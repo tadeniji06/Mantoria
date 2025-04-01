@@ -15,7 +15,7 @@ Mantoria Luxury Homes is a premium real estate platform that allows users to exp
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, Tailwind CSS
 - **Hosting**: Netlify/Vercel
-- **Data Handling**: Static JSON/API integration (if applicable)
+- **Data Handling**: Static JSON
 
 ## 📖 Documentation
 ### Property Listings
